@@ -1,0 +1,12 @@
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/cepdnaclk/swarm-robotics-firmware
+[submodule "visualizer"]
+	path = visualizer
+	url = https://github.com/cepdnaclk/swarm-robotics-gui
+[submodule "localization"]
+	path = localization
+	url = https://github.com/cepdnaclk/swarm-robotics-localization
+[submodule "hardware"]
+	path = hardware
+	url = https://github.com/cepdnaclk/swarm-robotics-hardware

@@ -10,3 +10,6 @@
 [submodule "hardware"]
 	path = hardware
 	url = https://github.com/cepdnaclk/swarm-robotics-hardware
+[submodule "swarm-admin"]
+	path = swarm-admin
+	url = https://github.com/Pera-Swarm/swarm-admin
